@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b60d9b-34cd-48b3-bc62-9a270cace967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +22,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="CameronStott &lt;40416068@live.napier.ac.uk&gt;" />
         <option value="Cameron Stott &lt;40416068@live.napier.ac.uk&gt;" />
+        <option value="CameronStott &lt;40416068@live.napier.ac.uk&gt;" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -99,18 +99,26 @@
       <option name="project" value="LOCAL" />
       <updated>1579020823040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit, first app.">
+      <created>1579021465550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579021465550</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit, adding initial files." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit, adding initial files." />
+    <MESSAGE value="Second commit, first app." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit, first app." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="692" y="154" key="CommitChangelistDialog2" timestamp="1579020822469">
+    <state x="692" y="154" key="CommitChangelistDialog2" timestamp="1579021464986">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="692" y="154" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1579020822469" />
+    <state x="692" y="154" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1579021464986" />
     <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1579021379143">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -127,14 +135,18 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1579021379142" />
-    <state x="617" y="291" key="Vcs.Push.Dialog.v2" timestamp="1579020911549">
+    <state x="326" y="255" key="SettingsEditor" timestamp="1579023582386">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="291" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1579020911549" />
-    <state x="733" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1579019328143">
+    <state x="326" y="255" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1579023582386" />
+    <state x="617" y="291" key="Vcs.Push.Dialog.v2" timestamp="1579021479224">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="733" y="383" key="com.intellij.ide.util.TipDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1579019328143" />
+    <state x="617" y="291" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1579021479224" />
+    <state x="733" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1579023341626">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="733" y="383" key="com.intellij.ide.util.TipDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1579023341626" />
     <state x="759" y="359" key="git4idea.merge.GitPullDialog" timestamp="1579020479179">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
